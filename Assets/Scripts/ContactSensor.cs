@@ -6,8 +6,10 @@ public class ContactSensor : MonoBehaviour
     public SpriteRenderer hazrd;
     public bool isInHazard = false;
     public UnityEvent OnEnterSensor;
+    public UnityEvent OnSensor;
     public UnityEvent OnExitSensor;
     public UnityEvent<float> OnRandomNumber;
+    public float dmgTimer = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,7 +24,13 @@ public class ContactSensor : MonoBehaviour
         {
             if (isInHazard == true)
             {
-                //still in hazard
+                //inside of hazard
+                dmgTimer += Time.deltaTime;
+                if (dmgTimer > 1)
+                {
+                    OnSensor.Invoke();
+                    dmgTimer = 0;
+                }
             }
             else
             {
@@ -41,7 +49,8 @@ public class ContactSensor : MonoBehaviour
                 //do somthing
                 Debug.Log("Exited the sensor!");
                 OnExitSensor.Invoke();
-                OnRandomNumber.Invoke(Random.Range(0, 10));
+                dmgTimer = 0;
+                //OnRandomNumber.Invoke(Random.Range(0, 10));
                 isInHazard = false;
             }
             else
