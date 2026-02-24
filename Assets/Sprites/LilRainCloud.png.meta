@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: fa5408ea72237e8478d93e869bbacf18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1029247984536728975
+    second: LilRainCloud_0
+  - first:
+      213: 4350460754384353778
+    second: LilRainCloud_1
+  - first:
+      213: -8373514504980793162
+    second: LilRainCloud_2
+  - first:
+      213: -6221463804684240589
+    second: LilRainCloud_3
+  - first:
+      213: 1052046176238384911
+    second: LilRainCloud_4
+  - first:
+      213: 4454011717241290228
+    second: LilRainCloud_5
+  - first:
+      213: 829579661261806635
+    second: LilRainCloud_6
+  - first:
+      213: 4960014644790529576
+    second: LilRainCloud_7
+  - first:
+      213: -2181381138709145008
+    second: LilRainCloud_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LilRainCloud_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 611
+        width: 1093
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 546.5, y: -213}
+        - {x: 547.5, y: -209}
+        - {x: 547.5, y: -91}
+        - {x: 452.5, y: 229}
+        - {x: -104.5, y: 229}
+        - {x: -547.5, y: 153}
+        - {x: -547.5, y: -175}
+        - {x: -537.5, y: -217}
+        - {x: -501.5, y: -229}
+        - {x: 506.5, y: -229}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac6e7496067b1f0800000000000000
+      internalID: -1029247984536728975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 446
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32.5, y: 32}
+        - {x: 11.5, y: 53}
+        - {x: -13.5, y: 53}
+        - {x: -32.5, y: 24}
+        - {x: -32.5, y: -41}
+        - {x: -23.5, y: -53}
+        - {x: 32.5, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97b52a101ff5c30800000000000000
+      internalID: 4350460754384353778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 502
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 29, y: -35.5}
+        - {x: 32, y: -31.5}
+        - {x: 32, y: 18.5}
+        - {x: 24, y: 46.5}
+        - {x: 19, y: 48.5}
+        - {x: -32, y: 48.5}
+        - {x: -32, y: -48.5}
+        - {x: 20, y: -48.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f9092cec4bcb80800000000000000
+      internalID: -8373514504980793162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 467
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 35, y: -41.5}
+        - {x: 35, y: 39.5}
+        - {x: 15, y: 49.5}
+        - {x: -27, y: 49.5}
+        - {x: -35, y: 27.5}
+        - {x: -35, y: -29.5}
+        - {x: -26, y: -49.5}
+        - {x: 24, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33978d2e1abe8a9a0800000000000000
+      internalID: -6221463804684240589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 306
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 35.5, y: -45}
+        - {x: 35.5, y: 18}
+        - {x: 22.5, y: 56}
+        - {x: -14.5, y: 56}
+        - {x: -20.5, y: 50}
+        - {x: -31.5, y: 31}
+        - {x: -35.5, y: 7}
+        - {x: -35.5, y: -36}
+        - {x: -24.5, y: -56}
+        - {x: 30.5, y: -56}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073ffd5c6e999e00800000000000000
+      internalID: 1052046176238384911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 263
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 40, y: -36.5}
+        - {x: 40, y: 16.5}
+        - {x: 34, y: 28.5}
+        - {x: 15, y: 50.5}
+        - {x: 3, y: 55.5}
+        - {x: -27, y: 55.5}
+        - {x: -40, y: 9.5}
+        - {x: -40, y: -47.5}
+        - {x: -27, y: -55.5}
+        - {x: 22, y: -55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3897fe04dfcd30800000000000000
+      internalID: 4454011717241290228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 147
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 35, y: -43}
+        - {x: 35, y: 20}
+        - {x: 32, y: 42}
+        - {x: 16, y: 52}
+        - {x: -12, y: 52}
+        - {x: -35, y: 10}
+        - {x: -35, y: -51}
+        - {x: -32, y: -52}
+        - {x: 28, y: -52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c166e7e42438b00800000000000000
+      internalID: 829579661261806635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 106
+        width: 63
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22.5, y: -60.5}
+        - {x: 31.5, y: -52.5}
+        - {x: 31.5, y: 41.5}
+        - {x: 21.5, y: 66.5}
+        - {x: -21.5, y: 66.5}
+        - {x: -31.5, y: 59.5}
+        - {x: -31.5, y: -66.5}
+        - {x: 14.5, y: -66.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e89774a0385d440800000000000000
+      internalID: 4960014644790529576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 38
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 42, y: -35.5}
+        - {x: 42, y: 1.5}
+        - {x: 21, y: 39.5}
+        - {x: 9, y: 53.5}
+        - {x: -36, y: 53.5}
+        - {x: -42, y: 12.5}
+        - {x: -42, y: -49.5}
+        - {x: -26, y: -53.5}
+        - {x: 27, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a118b696d2ab1e0800000000000000
+      internalID: -2181381138709145008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilRainCloud_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 1196
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 128}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9240bdc953a00548927511af6891555
+      internalID: -1674310752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b291ccbe50843a945be2d0b0b70808d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LilRainCloud_0: -1029247984536728975
+      LilRainCloud_1: 4350460754384353778
+      LilRainCloud_2: -8373514504980793162
+      LilRainCloud_3: -6221463804684240589
+      LilRainCloud_4: 1052046176238384911
+      LilRainCloud_5: 4454011717241290228
+      LilRainCloud_6: 829579661261806635
+      LilRainCloud_7: 4960014644790529576
+      LilRainCloud_8: -2181381138709145008
+      LilRainCloud_9: -1674310752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
